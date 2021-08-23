@@ -1,0 +1,21 @@
+{
+  "inventoryId": 2,
+  "buyingPrice": 801.5,
+  "minimumSellingPrice": 789.0,
+  "batchcode": "67",
+  "batchdate": "2019-09-11",
+  "quantity": 2,
+  "reorderLevel": 4,
+  "status": "Up",
+  "storeId": 11,
+  "product": {
+    "productId": 200,
+    "category": "fashion",
+    "type": "t-shirt",
+    "brand": "US Polo",
+    "productName": "inferno",
+    "image": null,
+    "productDesc":null
+
+  }
+}
